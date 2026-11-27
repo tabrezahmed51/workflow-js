@@ -12,7 +12,7 @@
   "dependencies": {
     "@upstash/qstash": "latest",
     "@upstash/workflow": "latest",
-    "nuxt": "^3.12.4",
+    "nuxt": "^4.7.0",
     "vue": "latest"
   },
   "devDependencies": {
