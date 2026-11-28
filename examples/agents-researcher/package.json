@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@langchain/community": "^0.3.28",
+    "@langchain/community": "^1.1.29",
     "@langchain/core": "^0.3.40",
     "@langchain/exa": "^0.1.0",
     "@tabler/icons-react": "^3.31.0",
@@ -18,7 +18,7 @@
     "clsx": "^2.1.1",
     "exa-js": "^1.4.10",
     "markdown-to-jsx": "^7.7.4",
-    "next": "15.5.29",
+    "next": "16.4.6",
     "prismjs": "^1.29.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
